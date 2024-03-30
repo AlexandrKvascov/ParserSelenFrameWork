@@ -1,0 +1,898 @@
+[
+    {
+        "Id": 0,
+        "Наименование": "Слинг для кошек и собак мелких пород, 50х18х29 см, хаки\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/sumki-perenoski-sobaki/sumki-sumki-perenosk/sling-50h18h29-sm-haki.html\n",
+        "Регулярная цена": "1 799.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 1,
+        "Наименование": "Дом-когтеточка для кошек, 42х42х73,7 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/kogtetochki/domiki-i-igrovye-kompleksy/dom-kogtetochka-42h42h78-5-sm.html\n",
+        "Регулярная цена": "7 199.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Petmax\n"
+    },
+    {
+        "Id": 2,
+        "Наименование": "Рюкзак для переноски кошек и собак, 33x43x21 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/sumki-perenoski-sobaki/ryukzaki-sumki-perenosk/ryukzak-dlya-perenoski-zhivotnyh-33x43x21-sm.html\n",
+        "Регулярная цена": "2 199.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 3,
+        "Наименование": "Слинг для переноски кошек и собак, 32x24x18 см, серый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/sumki-perenoski-sobaki/sumki-sumki-perenosk/sling-dlya-perenoski-zhivotnyh-32x24x18-sm-seryy.html\n",
+        "Регулярная цена": "2 699.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 4,
+        "Наименование": "Лежак круглый 40 см мята\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/lezhaki-lezhaki/lezhak-kruglyy-40-sm-myata.html\n",
+        "Регулярная цена": "1 399.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 5,
+        "Наименование": "Лежак круглый 40 см серый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/lezhaki-i-domiki-koshki/lezhaki/lezhak-kruglyy-40-sm-seryy.html\n",
+        "Регулярная цена": "1 399.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 6,
+        "Наименование": "Домик 45х46х26 см розовый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/lezhaki-i-domiki-koshki/domiki-myagkie/domik-45h46h26-sm-rozovyy.html\n",
+        "Регулярная цена": "1 499.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 7,
+        "Наименование": "Дом-лесенка для кошек и собак, 43х43х34 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/kletki-volery-dveri-koshki/pandusy-i-stupeni/lesenka-dlya-domashnih-zhivotnyh-43h43h34-sm.html\n",
+        "Регулярная цена": "2 799.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 8,
+        "Наименование": "Игрушка для кошек Мячик с шариком из кошачьей мяты, 4,7 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/igrushki-koshki/s-myatoy/igrushka-dlya-koshek-myachik-s-sharikom-iz-koshachey-myaty.html\n",
+        "Регулярная цена": "189.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Petmax\n"
+    },
+    {
+        "Id": 9,
+        "Наименование": "Adult Sterilized Classic Сухой корм для стерилизованных кошек, с курицей, 4 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/classic-korm-dlya-sterilizovannyh-koshek-s-kuricey.html\n",
+        "Регулярная цена": "1098 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Ownat\n"
+    },
+    {
+        "Id": 10,
+        "Наименование": "Наполнитель для кошачьего туалета, комкующийся, 10 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/napolniteli-koshki/komkuyushchiysya/San_Pet_napolnitel_dlya_koshachego_tualeta_komkuyushchiysya.html\n",
+        "Регулярная цена": "60 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "SanPet\n"
+    },
+    {
+        "Id": 11,
+        "Наименование": "Adult Sterilized Корм сухой беззерновой для стерилизованных кошек, с курицей, 3 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/just-korm-dlya-sterilizovannyh-koshek-bezzernovoy-s-kuricey.html\n",
+        "Регулярная цена": "1623 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Ownat\n"
+    },
+    {
+        "Id": 12,
+        "Наименование": "Sterilised Влажный корм (пауч) для стерилизованных кошек, в соусе, 85 гр.\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/korm-koshki/konservy/Royal_Canin_Sterilised_pauch_dlya_sterilizovannyh_koshek_starshe_1_goda_v_souse_85_g_1011129.html\n",
+        "Регулярная цена": "79.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Royal Canin\n"
+    },
+    {
+        "Id": 13,
+        "Наименование": "Sterilised 37 Regular Сухой корм для стерилизованных кошек с 1 до 7 лет, 2 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Royal_Canin_Sterilised_37_suhoy_korm_dlya_sterilizovannyh_koshek.html\n",
+        "Регулярная цена": "1375 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Royal Canin\n"
+    },
+    {
+        "Id": 14,
+        "Наименование": "Quadro Tabs Таблетки от клещей, блох, гельминтов для кошек и собак 2-8 кг, 4 таблетки\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/veterinarnaya-apteka/zashchita-ot-blokh-i-kleshchey/sobak/tabletki-i-poroshki/quadro-tabs-tabletki-ot-kleshchey-blokh-gelmintov-dlya-koshek-i-sobak-2-8-kg-4tab-up.html\n",
+        "Регулярная цена": "1 339.00 ₽\n",
+        "Промо цена": "1 139.00 ₽\n",
+        "Бренд": "Inspector\n"
+    },
+    {
+        "Id": 15,
+        "Наименование": "Игрушка для кошек Мячик с шариком из кошачьей мяты, 4,7 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/igrushki-koshki/s-myatoy/igrushka-dlya-koshek-myachik-s-sharikom-iz-koshachey-myaty.html\n",
+        "Регулярная цена": "189.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Petmax\n"
+    },
+    {
+        "Id": 16,
+        "Наименование": "Наполнитель для кошачьего туалета, комкующийся, 8 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/napolniteli-koshki/komkuyushchiysya/Domosedy_napolnitel_dlya_koshachego_tualeta_komkuyushchiysya.html\n",
+        "Регулярная цена": "70 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Домоседы\n"
+    },
+    {
+        "Id": 17,
+        "Наименование": "Наполнитель для кошачьего туалета, комкующийся, 8 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/napolniteli-koshki/komkuyushchiysya/Domosedy_napolnitel_dlya_koshachego_tualeta_komkuyushchiysya.html\n",
+        "Регулярная цена": "70 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Домоседы\n"
+    },
+    {
+        "Id": 18,
+        "Наименование": "Sterilised Влажный корм (пауч) для стерилизованных кошек, в соусе, 85 гр.\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/korm-koshki/konservy/Royal_Canin_Sterilised_pauch_dlya_sterilizovannyh_koshek_starshe_1_goda_v_souse_85_g_1011129.html\n",
+        "Регулярная цена": "79.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Royal Canin\n"
+    },
+    {
+        "Id": 19,
+        "Наименование": "Сухой корм для стерилизованных кошек, четыре вида мяса, 2 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/suhoy-korm-grandorf-dlya-sterilizovannyh-koshek-chetyre-vida-myasa-s-burym-risom-400g.html\n",
+        "Регулярная цена": "2338 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Grandorf\n"
+    },
+    {
+        "Id": 20,
+        "Наименование": "Sterilised 37 Regular Сухой корм для стерилизованных кошек с 1 до 7 лет, 2 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Royal_Canin_Sterilised_37_suhoy_korm_dlya_sterilizovannyh_koshek.html\n",
+        "Регулярная цена": "1375 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Royal Canin\n"
+    },
+    {
+        "Id": 21,
+        "Наименование": "Рюкзак c прозрачным окошком для переноски кошек и собак, 42х34х27 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/sumki-perenoski-koshki/ryukzaki/ryukzak-dlya-perenoski-zhivotnyh-42h34h27-sm.html\n",
+        "Регулярная цена": "4 199.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 22,
+        "Наименование": "Игрушка для кошек Мячик с шариком из кошачьей мяты, 4,7 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/igrushki-koshki/s-myatoy/igrushka-dlya-koshek-myachik-s-sharikom-iz-koshachey-myaty.html\n",
+        "Регулярная цена": "189.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Petmax\n"
+    },
+    {
+        "Id": 23,
+        "Наименование": "Adult Sterilized Classic Сухой корм для стерилизованных кошек, с курицей, 4 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/classic-korm-dlya-sterilizovannyh-koshek-s-kuricey.html\n",
+        "Регулярная цена": "1098 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Ownat\n"
+    },
+    {
+        "Id": 24,
+        "Наименование": "Наполнитель для кошачьего туалета, комкующийся, 8 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/napolniteli-koshki/komkuyushchiysya/Domosedy_napolnitel_dlya_koshachego_tualeta_komkuyushchiysya.html\n",
+        "Регулярная цена": "70 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Домоседы\n"
+    },
+    {
+        "Id": 25,
+        "Наименование": "Наполнитель для кошачьего туалета, комкующийся, 8 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/napolniteli-koshki/komkuyushchiysya/Domosedy_napolnitel_dlya_koshachego_tualeta_komkuyushchiysya.html\n",
+        "Регулярная цена": "70 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Домоседы\n"
+    },
+    {
+        "Id": 26,
+        "Наименование": "Sterilised Влажный корм (пауч) для стерилизованных кошек, в соусе, 85 гр.\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/korm-koshki/konservy/Royal_Canin_Sterilised_pauch_dlya_sterilizovannyh_koshek_starshe_1_goda_v_souse_85_g_1011129.html\n",
+        "Регулярная цена": "79.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Royal Canin\n"
+    },
+    {
+        "Id": 27,
+        "Наименование": "Сухой корм для стерилизованных кошек, четыре вида мяса, 2 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/suhoy-korm-grandorf-dlya-sterilizovannyh-koshek-chetyre-vida-myasa-s-burym-risom-400g.html\n",
+        "Регулярная цена": "2338 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Grandorf\n"
+    },
+    {
+        "Id": 28,
+        "Наименование": "Sterilised 37 Regular Сухой корм для стерилизованных кошек с 1 до 7 лет, 2 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Royal_Canin_Sterilised_37_suhoy_korm_dlya_sterilizovannyh_koshek.html\n",
+        "Регулярная цена": "1375 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Royal Canin\n"
+    },
+    {
+        "Id": 29,
+        "Наименование": "Рюкзак c прозрачным окошком для переноски кошек и собак, 42х34х27 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/sumki-perenoski-koshki/ryukzaki/ryukzak-dlya-perenoski-zhivotnyh-42h34h27-sm.html\n",
+        "Регулярная цена": "4 199.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 30,
+        "Наименование": "Дом-лесенка для кошек и собак, 43х43х34 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/kletki-volery-dveri-koshki/pandusy-i-stupeni/lesenka-dlya-domashnih-zhivotnyh-43h43h34-sm.html\n",
+        "Регулярная цена": "2 799.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 31,
+        "Наименование": "Лежак для кошек и собак Кошкин Дом, 45х45х12 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/lezhaki-lezhaki/lezhak-koshkin-dom-45h45h12sm.html\n",
+        "Регулярная цена": "799.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 32,
+        "Наименование": "Лежак со съемным чехлом для собак и кошек, 70х55х18 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/lezhaki-lezhaki/lezhak-so-semnym-chehlom-70h55h18sm.html\n",
+        "Регулярная цена": "2 599.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 33,
+        "Наименование": "Лежак с искусственным мехом для кошек и собак, 46х46х15 см, бежевый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/lezhaki-i-domiki-koshki/lezhaki/lezhak-s-iskusstvennym-mehom-46h46h15-bezhevyy.html\n",
+        "Регулярная цена": "1 199.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 34,
+        "Наименование": "Лежак с искусственным мехом для кошек и собак, 46х46х15 см, бежевый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/lezhaki-i-domiki-koshki/lezhaki/lezhak-s-iskusstvennym-mehom-46h46h15-bezhevyy.html\n",
+        "Регулярная цена": "1 199.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 35,
+        "Наименование": "Лежак с искусственным мехом для кошек и собак, 55х50х20 см, серый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/lezhaki-i-domiki-koshki/lezhaki/lezhak-s-iskusstvennym-mehom-55h50h20-seryy.html\n",
+        "Регулярная цена": "1 599.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 36,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 40 грудь 65 розовая орхидея\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-40-grud-65-rozovaya-orhideya.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 37,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 36 грудь 58 коралл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-36-grud-58-korall.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 38,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 34 грудь 55 малина\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-34-grud-55-malina.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 39,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 28 грудь 46 сирень\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-28-grud-46-siren.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 40,
+        "Наименование": "Матрас для собак и кошек Анды, 85х60 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/kovriki-i-matrasy-lezhaki/matras-andy-85kh60-sm.html\n",
+        "Регулярная цена": "1 699.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 41,
+        "Наименование": "Матрас для собак и кошек Анды, 85х60 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/kovriki-i-matrasy-lezhaki/matras-andy-85kh60-sm.html\n",
+        "Регулярная цена": "1 699.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 42,
+        "Наименование": "Adult Сухой корм для собак всех пород, с ягненком и рисом, 3 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/korm-sobaki/sukhoy-korm-sobaki/korm-dlya-sobak-vseh-porod-yagnenok-i-ris-3kg.html\n",
+        "Регулярная цена": "533 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Aвва\n"
+    },
+    {
+        "Id": 43,
+        "Наименование": "Лежак для кошек и собак, 70х60 см, темно-фиолетовый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/korm-sobaki/sukhoy-korm-sobaki/korm-dlya-sobak-vseh-porod-yagnenok-i-ris-3kg.html\n",
+        "Регулярная цена": "1 999.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 44,
+        "Наименование": "Лежак для кошек и собак, 70х60 см, темно-фиолетовый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/lezhaki-lezhaki/lezhak-70h60-sm-sirenevyy.html\n",
+        "Регулярная цена": "1 999.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 45,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 34 грудь 55 малина\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-34-grud-55-malina.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 46,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 32 грудь 52 коралл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-32-grud-52-korall.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 47,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 28 грудь 46 сирень\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-28-grud-46-siren.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 48,
+        "Наименование": "Матрас для собак и кошек Анды, 85х60 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/kovriki-i-matrasy-lezhaki/matras-andy-85kh60-sm.html\n",
+        "Регулярная цена": "1 699.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 49,
+        "Наименование": "Матрас для собак и кошек Фэнтази, 85х60 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/kovriki-i-matrasy-lezhaki/matras-fentazi-85kh60-sm.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 50,
+        "Наименование": "Adult Сухой корм для собак всех пород, с ягненком и рисом, 3 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/korm-sobaki/sukhoy-korm-sobaki/korm-dlya-sobak-vseh-porod-yagnenok-i-ris-3kg.html\n",
+        "Регулярная цена": "533 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Aвва\n"
+    },
+    {
+        "Id": 51,
+        "Наименование": "Лежак для кошек и собак, 70х60 см, темно-фиолетовый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/lezhaki-lezhaki/lezhak-70h60-sm-sirenevyy.html\n",
+        "Регулярная цена": "1 999.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 52,
+        "Наименование": "Лежак для кошек и собак, 70х60 см, темно-фиолетовый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/lezhaki-lezhaki/lezhak-70h60-sm-sirenevyy.html\n",
+        "Регулярная цена": "1 999.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 53,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 34 грудь 55 малина\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-34-grud-55-malina.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 54,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 32 грудь 52 коралл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-32-grud-52-korall.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 55,
+        "Наименование": "Матрас для собак и кошек Анды, 95х60 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/kovriki-i-matrasy-lezhaki/matras-andy-95kh60-sm.html\n",
+        "Регулярная цена": "1 999.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 56,
+        "Наименование": "Матрас для собак и кошек Анды, 95х60 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/kovriki-i-matrasy-lezhaki/matras-andy-95kh60-sm.html\n",
+        "Регулярная цена": "1 999.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 57,
+        "Наименование": "Матрас для собак и кошек Фэнтази, 85х60 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/kovriki-i-matrasy-lezhaki/matras-fentazi-85kh60-sm.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 58,
+        "Наименование": "Лежанка для кошек и собак, 70х60 см, сиреневый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/lezhaki-lezhaki/lezhanka-70h60-sm-fioletovyy-temnyy.html\n",
+        "Регулярная цена": "1 999.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 59,
+        "Наименование": "Лежанка для кошек и собак, 70х60 см, сиреневый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/lezhaki-lezhaki/lezhanka-70h60-sm-fioletovyy-temnyy.html\n",
+        "Регулярная цена": "1 999.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 60,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 36 грудь 58 коралл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-36-grud-58-korall.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 61,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 34 грудь 55 малина\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-34-grud-55-malina.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 62,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 28 грудь 46 сирень\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-28-grud-46-siren.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 63,
+        "Наименование": "Матрас для собак и кошек Анды, 85х60 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/kovriki-i-matrasy-lezhaki/matras-andy-85kh60-sm.html\n",
+        "Регулярная цена": "1 699.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 64,
+        "Наименование": "Матрас для собак и кошек Анды, 85х60 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/kovriki-i-matrasy-lezhaki/matras-andy-85kh60-sm.html\n",
+        "Регулярная цена": "1 699.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 65,
+        "Наименование": "Adult Сухой корм для собак всех пород, с ягненком и рисом, 3 кг\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/korm-sobaki/sukhoy-korm-sobaki/korm-dlya-sobak-vseh-porod-yagnenok-i-ris-3kg.html\n",
+        "Регулярная цена": "533 ₽/кг\n",
+        "Промо цена": "\n",
+        "Бренд": "Aвва\n"
+    },
+    {
+        "Id": 66,
+        "Наименование": "Лежанка для кошек и собак, 70х60 см, сиреневый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/lezhaki-i-domiki/lezhaki-lezhaki/lezhanka-70h60-sm-fioletovyy-temnyy.html\n",
+        "Регулярная цена": "1 999.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 67,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 36 грудь 58 коралл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-36-grud-58-korall.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 68,
+        "Наименование": "Жилетка мембрана с подкладкой девочка спина 32 грудь 52 коралл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/odezhda-i-obuv/kurtki-i-zhiletki/zhiletka-membrana-s-podkladkoy-devochka-spina-32-grud-52-korall.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rungo\n"
+    },
+    {
+        "Id": 69,
+        "Наименование": "Игрушка для собак Канат 40 см, серый\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/kanaty/igrushka-dlya-sobak-kanat-40-sm-seryy.html\n",
+        "Регулярная цена": "239.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 70,
+        "Наименование": "Игрушка для собак Скунс, 58 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/tovary-dlya-shchenkov/igrushki-zaveli-shchenka/igrushka-dlya-sobak-skuns-58-sm.html\n",
+        "Регулярная цена": "799.00 ₽\n",
+        "Промо цена": "400.00 ₽\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 71,
+        "Наименование": "Игрушка для собак Скунс, 58 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/tovary-dlya-shchenkov/igrushki-zaveli-shchenka/igrushka-dlya-sobak-skuns-58-sm.html\n",
+        "Регулярная цена": "799.00 ₽\n",
+        "Промо цена": "400.00 ₽\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 72,
+        "Наименование": "Игрушка для собак Свинка с лизунцом, 6х7,7х7,7 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/v-forme-edy/igrushka-dlya-sobak-svinka-s-lizuncom.html\n",
+        "Регулярная цена": "599.00 ₽\n",
+        "Промо цена": "300.00 ₽\n",
+        "Бренд": "Petmax\n"
+    },
+    {
+        "Id": 73,
+        "Наименование": "Игровой коврик для собак для поиска лакомств Цветок, 40 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/razvivayushchie-igrushki/igrovoy-kovrik-dlya-poiska-lakomstv-cvetok-40-sm.html\n",
+        "Регулярная цена": "699.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Pet Hobby\n"
+    },
+    {
+        "Id": 74,
+        "Наименование": "Игрушка для собак Кольцо Tug&Twist диаметр 26,5 см Восьмигранное среднее оранжевое, толщина 4,6 см, для собак средних и крупных пород (снаряд, пуллер)\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/koltso/igrushka-dlya-sobak-koltso-tug-twist-vosmigrannoe-srednee.html\n",
+        "Регулярная цена": "679.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Pet Hobby\n"
+    },
+    {
+        "Id": 75,
+        "Наименование": "Игрушка для собак развивающая Flip Board, диаметр 23 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/razvivayushchie-igrushki/Triksi_Razvivayushchaya_igrushka_Flip_Board_f_23_sm_1021196.html\n",
+        "Регулярная цена": "1 299.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Trixie\n"
+    },
+    {
+        "Id": 76,
+        "Наименование": "Развивающая игрушка для собак, 17х18 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/umnye-tovary/igrushki-razvivayushchie/triksi-razvivayushchaya-igrushka-dlya-sobak-katapulta-f17h18-sm.html\n",
+        "Регулярная цена": "2 777.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Trixie\n"
+    },
+    {
+        "Id": 77,
+        "Наименование": "Игрушка для собак Кость для лакомств 10 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/kostochki/rurri-igrushka-dlya-sobak-kost-dlya-lakomstv-10-sm.html\n",
+        "Регулярная цена": "379.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 78,
+        "Наименование": "Игрушка для собак Мяч теннисный 6 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/myachi/Petmaks_Igrushka_dlya_sobak_Myach_tennisnyy_6sm_1007666.html\n",
+        "Регулярная цена": "169.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Petmax\n"
+    },
+    {
+        "Id": 79,
+        "Наименование": "Игровой коврик для собак для поиска лакомств Клумба, 60 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/razvivayushchie-igrushki/igrovoy-kovrik-dlya-poiska-lakomstv-klumba-60-sm.html\n",
+        "Регулярная цена": "749.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Pet Hobby\n"
+    },
+    {
+        "Id": 80,
+        "Наименование": "Игрушка для собак Белка, 34см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/v-forme-zhivotnykh/igrushka-dlya-sobak-enot-34-sm.html\n",
+        "Регулярная цена": "519.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Petmax\n"
+    },
+    {
+        "Id": 81,
+        "Наименование": "Игрушка для собак Plush Friendz Лиса с пищалкой 9 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/v-forme-zhivotnykh/GiGwi_Igrushka_dlya_sobak_Plush_Friendz_Lisa_s_pishchalkoy_9_sm_1019041.html\n",
+        "Регулярная цена": "415.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "GiGwi\n"
+    },
+    {
+        "Id": 82,
+        "Наименование": "Игрушка для собак Шкурка лисы 41 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/v-forme-zhivotnykh/Igrushka_dlya_sobaki_SHkurka_lisy_41sm_1007534.html\n",
+        "Регулярная цена": "679.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "GiGwi\n"
+    },
+    {
+        "Id": 83,
+        "Наименование": "Игрушка для собак Улитка с кармашками для лакомств, 63 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/tovary-dlya-shchenkov/igrushki-zaveli-shchenka/igrushka-dlya-sobak-ulitka-s-karmashkami-dlya-lakomstv.html\n",
+        "Регулярная цена": "599.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 84,
+        "Наименование": "Игрушка для собак Кость для лакомств 10 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/kostochki/rurri-igrushka-dlya-sobak-kost-dlya-lakomstv-10-sm.html\n",
+        "Регулярная цена": "379.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 85,
+        "Наименование": "Игрушка для собак Мяч теннисный 6 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/myachi/Petmaks_Igrushka_dlya_sobak_Myach_tennisnyy_6sm_1007666.html\n",
+        "Регулярная цена": "169.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Petmax\n"
+    },
+    {
+        "Id": 86,
+        "Наименование": "Игровой коврик для собак для поиска лакомств Клумба, 60 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/razvivayushchie-igrushki/igrovoy-kovrik-dlya-poiska-lakomstv-klumba-60-sm.html\n",
+        "Регулярная цена": "749.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Pet Hobby\n"
+    },
+    {
+        "Id": 87,
+        "Наименование": "Игрушка для собак Белка, 34см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/v-forme-zhivotnykh/igrushka-dlya-sobak-enot-34-sm.html\n",
+        "Регулярная цена": "519.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Petmax\n"
+    },
+    {
+        "Id": 88,
+        "Наименование": "Игрушка для собак Plush Friendz Лиса с пищалкой 9 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/v-forme-zhivotnykh/GiGwi_Igrushka_dlya_sobak_Plush_Friendz_Lisa_s_pishchalkoy_9_sm_1019041.html\n",
+        "Регулярная цена": "415.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "GiGwi\n"
+    },
+    {
+        "Id": 89,
+        "Наименование": "Игрушка для собак Шкурка лисы 41 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/v-forme-zhivotnykh/Igrushka_dlya_sobaki_SHkurka_lisy_41sm_1007534.html\n",
+        "Регулярная цена": "679.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "GiGwi\n"
+    },
+    {
+        "Id": 90,
+        "Наименование": "Игрушка для собак Улитка с кармашками для лакомств, 63 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/tovary-dlya-shchenkov/igrushki-zaveli-shchenka/igrushka-dlya-sobak-ulitka-s-karmashkami-dlya-lakomstv.html\n",
+        "Регулярная цена": "599.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 91,
+        "Наименование": "Игрушка для собак Утка 14 см, латекс\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/igrushka-dlya-sobak-utka-14-sm-lateks.html\n",
+        "Регулярная цена": "239.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Petmax\n"
+    },
+    {
+        "Id": 92,
+        "Наименование": "Игрушка для собак Кость для лакомств 10 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/kostochki/rurri-igrushka-dlya-sobak-kost-dlya-lakomstv-10-sm.html\n",
+        "Регулярная цена": "379.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 93,
+        "Наименование": "Игрушка для собак Мяч теннисный 6 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/myachi/Petmaks_Igrushka_dlya_sobak_Myach_tennisnyy_6sm_1007666.html\n",
+        "Регулярная цена": "169.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Petmax\n"
+    },
+    {
+        "Id": 94,
+        "Наименование": "Игровой коврик для собак для поиска лакомств Клумба, 60 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/razvivayushchie-igrushki/igrovoy-kovrik-dlya-poiska-lakomstv-klumba-60-sm.html\n",
+        "Регулярная цена": "749.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Pet Hobby\n"
+    },
+    {
+        "Id": 95,
+        "Наименование": "Игрушка для собак Белка, 34см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/v-forme-zhivotnykh/igrushka-dlya-sobak-enot-34-sm.html\n",
+        "Регулярная цена": "519.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Petmax\n"
+    },
+    {
+        "Id": 96,
+        "Наименование": "Игрушка для собак Фрисби, 23,5х3 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/frisbi/igrushka-dlya-sobak-frisbi-23-5-sm.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 97,
+        "Наименование": "Игрушка для собак Фрисби, 23,5х3 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/frisbi/igrushka-dlya-sobak-frisbi-23-5-sm.html\n",
+        "Регулярная цена": "1 899.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 98,
+        "Наименование": "Игрушка для собак Улитка с кармашками для лакомств, 63 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/tovary-dlya-shchenkov/igrushki-zaveli-shchenka/igrushka-dlya-sobak-ulitka-s-karmashkami-dlya-lakomstv.html\n",
+        "Регулярная цена": "599.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 99,
+        "Наименование": "Игрушка для собак Кость для лакомств 10 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/kostochki/rurri-igrushka-dlya-sobak-kost-dlya-lakomstv-10-sm.html\n",
+        "Регулярная цена": "379.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 100,
+        "Наименование": "Игрушка для собак Кость для лакомств 10 см\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/igrushki/kostochki/rurri-igrushka-dlya-sobak-kost-dlya-lakomstv-10-sm.html\n",
+        "Регулярная цена": "379.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Rurri\n"
+    },
+    {
+        "Id": 101,
+        "Наименование": "Лосьон для ушей кошек и собак ПреОтик Tris, 100 мл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/veterinarnaya-apteka/universalnye/ushnye-kapli-i-losony-universalnye/preotik-tris-loson-dlya-ushey-100-ml.html\n",
+        "Регулярная цена": "749.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "МИРАЛЕК\n"
+    },
+    {
+        "Id": 102,
+        "Наименование": "Шампунь Антигрибковый с кетоконазолом и прополисом 250мл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/gigiena-i-kosmetika/shampuni-gigena/PCHELODAR_SHampun_Antigribkovyy_s_ketokonazolom_i_propolisom__250ml_1022853.html\n",
+        "Регулярная цена": "829.00 ₽\n",
+        "Промо цена": "664.00 ₽\n",
+        "Бренд": "Pchelodar\n"
+    },
+    {
+        "Id": 103,
+        "Наименование": "Шампунь Антигрибковый с кетоконазолом и прополисом 250мл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/gigiena-i-kosmetika/shampuni-gigena/PCHELODAR_SHampun_Antigribkovyy_s_ketokonazolom_i_propolisom__250ml_1022853.html\n",
+        "Регулярная цена": "829.00 ₽\n",
+        "Промо цена": "664.00 ₽\n",
+        "Бренд": "Pchelodar\n"
+    },
+    {
+        "Id": 104,
+        "Наименование": "Влажные салфетки для глаз и ушей, 24 шт.\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/gigiena-i-kosmetika/vlazhnye-salfetki/vlazhnye-salfetki-dlya-glaz-i-ushey-24-sht.html\n",
+        "Регулярная цена": "95.00 ₽\n",
+        "Промо цена": "76.00 ₽\n",
+        "Бренд": "PUR FUR\n"
+    },
+    {
+        "Id": 105,
+        "Наименование": "Дуксо S3 Кальм Мусс для чувствительной кожи кошек и собак, 150 мл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/gigiena-i-kosmetika-koshki/konditsionery/dukso-s3-kalm-muss-dlya-chuvstvitelnoy-kozhi-koshek-i-sobak-150ml.html\n",
+        "Регулярная цена": "2 999.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Ceva\n"
+    },
+    {
+        "Id": 106,
+        "Наименование": "Дуксо S3 Кальм Мусс для чувствительной кожи кошек и собак, 150 мл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/koshki/gigiena-i-kosmetika-koshki/konditsionery/dukso-s3-kalm-muss-dlya-chuvstvitelnoy-kozhi-koshek-i-sobak-150ml.html\n",
+        "Регулярная цена": "2 999.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Ceva\n"
+    },
+    {
+        "Id": 107,
+        "Наименование": "Зубная щетка + массажер для десен\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/gigiena-i-kosmetika/zubnaya-pasta-gigiena/Cliny_Zubnaya_shchetka__massager_dlya_desen_1009172.html\n",
+        "Регулярная цена": "357.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Cliny\n"
+    },
+    {
+        "Id": 108,
+        "Наименование": "Traditional Line Banana Шампунь для шерсти средней длины, 500 мл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/gigiena-i-kosmetika/shampuni-gigena/ISB_Traditional_Line_Banana_SHampun_dlya_shersti_sredney_dliny_500_ml_1022298.html\n",
+        "Регулярная цена": "1 285.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Iv San Bernard\n"
+    },
+    {
+        "Id": 109,
+        "Наименование": "Спрей стоматологический для собак и кошек, 40мл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/gigiena-i-kosmetika/geli-i-sprei-dlya-polosti-rta-gigiena/sprey-stomatologicheskiy-dlya-sobak-i-koshek-40ml.html\n",
+        "Регулярная цена": "565.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "Форвет\n"
+    },
+    {
+        "Id": 110,
+        "Наименование": "Шампунь для собак со светлой шерстью, с повышенным пенообразованием, 400 мл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/sobaki/gigiena-i-kosmetika/shampuni-gigena/shampun-dlya-sobak-so-svetloy-sherstyu-s-povyshennym-penoobrazovaniem-400ml.html\n",
+        "Регулярная цена": "595.00 ₽\n",
+        "Промо цена": "476.00 ₽\n",
+        "Бренд": "PUR FUR\n"
+    },
+    {
+        "Id": 111,
+        "Наименование": "Лосьон гипоаллергенный для чистки ушей для кошек и собак, 50 мл\n",
+        "Ссылка на товар": "https://4lapy.ru/catalog/veterinarnaya-apteka/koshka/kapli-i-losony-dlya-ushey-koshki/loson-dlya-chistki-ushey-dlya-koshek-i-sobak-gipoallergennyy-50ml.html\n",
+        "Регулярная цена": "319.00 ₽\n",
+        "Промо цена": "\n",
+        "Бренд": "PUR FUR\n"
+    }
+]

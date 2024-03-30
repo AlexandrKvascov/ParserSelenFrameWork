@@ -1,0 +1,80 @@
+#####Установка appium#############
+
+Для установки Appium на Windows, вы можете следовать этим основным шагам:
+
+1. **Установка Node.js:**
+   Appium является сервером, написанным на Node.js, поэтому первым шагом будет установка Node.js. Вы можете скачать установщик Node.js с официального сайта: [Node.js Downloads](https://nodejs.org/en/download/).
+
+2. **Установка Appium:**
+   Установите Appium с использованием npm (Node Package Manager), который устанавливается вместе с Node.js. Откройте командную строку (Command Prompt) и выполните следующую команду:
+
+   ```bash
+   npm install -g appium
+   ```
+
+   Эта команда установит Appium глобально на вашей системе.
+
+3. **Установка Appium Doctor:**
+   Appium Doctor - это инструмент, который поможет вам убедиться, что все необходимые зависимости установлены правильно. Установите Appium Doctor, выполнив следующую команду:
+
+   ```bash
+   npm install -g appium-doctor
+
+
+   appium driver install uiautomator2
+   ```
+
+   После установки выполните `appium-doctor` в командной строке:
+
+   ```bash
+   appium-doctor
+   ```
+
+   Appium Doctor предоставит рекомендации по установке дополнительных зависимостей, если это необходимо.
+
+4. **Установка Java:**
+   Appium также требует установки Java Development Kit (JDK), так как Android использует Java. Скачайте и установите JDK с [официального сайта Oracle](https://www.oracle.com/java/technologies/javase-downloads.html).
+
+5. **Установка Android Studio:**
+   Если вы планируете использовать Appium для автоматизации Android-приложений, установите Android Studio и настройте SDK (Software Development Kit). Вы можете скачать Android Studio с [официального сайта](https://developer.android.com/studio).
+
+6. **Установка Appium Desktop (опционально):**
+   Appium Desktop предоставляет графический интерфейс для управления и отладки тестов. Вы можете скачать Appium Desktop с [официального сайта Appium](https://github.com/appium/appium-inspector/releases).
+
+После выполнения этих шагов у вас должна быть установлена Appium на вашей системе Windows. Вы можете начать использовать Appium для автоматизации тестирования мобильных приложений.
+
+############# Запуск Appium ###############################
+
+1.Запускаем эмулятор
+
+2. Открываем терминал и пишем в командной строке appium server -p 4723 -a 192.168.0.10 -pa /wd/hub (вместо 192.168.1.86, свой ip address)
+
+3. 
+
+    (а) Открываем appium inspector и в поле JSON Representation записываем 
+
+    {
+        "platformName": "Android",
+        "appium:platformVersion": "11",
+        "appium:DeviceName": "Emulator",
+        "appium:automationName": "UiAutomator2"
+    }
+
+    (б) В поле Remote Host пишем свой ip 
+
+    (в) В поле Remote Port пишем 4723
+
+    (г) В поле Remote Path пишем /wd/hub
+
+    
+
+############# Писать код ##################################
+
+
+1. Создаём новый файл в папке TestKeys (Название с большой буквы "Primer.py")
+
+2. Импортируем готовые библиотеки (from Mainproject import *)
+
+3. Если нужно мобильное приложение то пишем driver = StartAppium.appium(), если web тогда - seldriver = StartSelenium.sellenium(), оба варианта если нужно и то и то 
+
+4. Чтобы appium подключился к ваше системе, мы заходим в config.json и меняем "ip_address_entry": "192.168.0.6", на ваш ip, его можно посмотреть в консоли по комманде ipconfig
